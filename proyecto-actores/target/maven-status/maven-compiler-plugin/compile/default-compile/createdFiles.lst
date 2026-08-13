@@ -1,0 +1,3 @@
+com/serverless/actores/WorkerActor.class
+com/serverless/actores/SupervisorActor.class
+com/serverless/actores/LambdaHandler.class
